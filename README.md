@@ -1,4 +1,4 @@
-## Olá! Sou o Lucas Caminha, criador de conteúdo digital, design e de programação. <br>Sou apaixonado 🥰😍❤️ por tecnologia!
+## Olá! Sou o Lucas Caminha, cientista da computação, criador de conteúdo digital, design e de programação. <br>Sou apaixonado 🥰😍❤️ por tecnologia!
 
 <div align="center">
   <a href="https://github.com/lcaminha/">
