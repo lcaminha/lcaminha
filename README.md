@@ -5,7 +5,7 @@ Sólida maturidade em desemvolvimento de Projetos de softwares utilizando modelo
 
 Comunicativo e organizado, com facilidade em documentações, planejamento e cronograma de tarefas; Atuo de forma ética, agregando valor, visando integridade, respeito e honestidade. Sempre disposto a aprender novas tecnologias, contribuindo e compartilhando com o time experiências e técnicas inovadoras para alcançar o melhor resultado. Adoro filmes, séries e jogos de tabuleiro.
 ...<br>
-<br>Sou apaixonado 🥰😍❤️ por tecnologia!
+<br>Apaixonado 🥰😍❤️ por tecnologia!
 
 <!--
 <div align="center">
