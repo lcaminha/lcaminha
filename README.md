@@ -34,7 +34,7 @@ Comunicativo e organizado, com facilidade em documentações, planejamento e cro
   <img align="center" alt="After Effects" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg">  
   <img align="center" alt="illustrator" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg">    
   <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">    
-  <img align="center" alt="canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">      
+  <!--<img align="center" alt="canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">      -->
 </div>
   
   ##
