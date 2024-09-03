@@ -1,7 +1,7 @@
 ##
 Profissional com mais de 8 anos de experiência e carreira desenvolvida em grandes empresas, experiência em projetos de implantação na área de Tecnologia, Hospitalar, Gestão de Pessoas, Educacional, Design, Administrativa e Financeira;
 
-Sólida maturidade em desemvolvimento de Projetos de softwares utilizando modelos ágeis e gestão à vista como o Scrum e Kanban. Rotinas em java entre outras linguagens de programação. além de tarefas de otimização de scripts, análise e manutenção de procedimentos em PL/SQL, SQL, Modelagens de dados, Scripts em DW, Otimização de Triggers, Jobs Migração e Extração de dados para relatórios gerenciais bem como para consumo de ERPs como o SAP, TOTVS entre outros;
+Sólida maturidade em desemvolvimento de Projetos de softwares utilizando modelos ágeis e gestão à vista como o Scrum e Kanban. Rotinas em Java, banco de dados entre outras linguagens de programação. Tarefas de otimização de scripts, análise e manutenção de procedimentos em PL/SQL, SQL, Modelagens de dados, Scripts em DW, Otimização de Triggers, Jobs Migração e Extração de dados para relatórios gerenciais bem como para consumo de ERPs como o SAP, TOTVS entre outros;
 
 Comunicativo e organizado, com facilidade em documentações, planejamento e cronograma de tarefas; Atuo de forma ética, agregando valor, visando integridade, respeito e honestidade. Sempre disposto a aprender novas tecnologias, contribuindo e compartilhando com o time experiências e técnicas inovadoras para alcançar o melhor resultado. Adoro filmes, séries e jogos de tabuleiro.
 ...<br>
