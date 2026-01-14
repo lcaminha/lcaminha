@@ -1,5 +1,5 @@
 ##
-Profissional com mais de 8 anos de experiência e carreira desenvolvida em grandes empresas, experiência em projetos de implantação na área de Tecnologia, Hospitalar, Gestão de Pessoas, Educacional, Design, Administrativa e Financeira;
+Profissional com formação acadêmica em Ciência da Computação desde de 2018 com anos de experiência e carreira desenvolvida em grandes empresas, experiência em projetos de implantação na área de Tecnologia, Hospitalar, Gestão de Pessoas, Educacional, Design, Administrativa e Financeira;
 
 Sólida maturidade em desemvolvimento de Projetos de softwares utilizando modelos ágeis e gestão à vista como o Scrum e Kanban. Rotinas em Java, banco de dados entre outras linguagens de programação. Tarefas de otimização de scripts, análise e manutenção de procedimentos em PL/SQL, SQL, Modelagens de dados, Scripts em DW, Otimização de Triggers, Jobs Migração e Extração de dados para relatórios gerenciais bem como para consumo de ERPs como o SAP, TOTVS entre outros;
 
